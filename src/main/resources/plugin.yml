@@ -1,6 +1,6 @@
 name: AsyncTp
 main: io.github.yey007.asynctp.AsyncTp
-version: 0.2.1
+version: 0.2.1.1
 author: yey007
 api-version: 1.15
 description: Adds a command to teleport asynchronously
