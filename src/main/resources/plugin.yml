@@ -1,0 +1,16 @@
+name: AsyncTp
+main: io.github.yey007.asynctp.AsyncTp
+version: 0.2.1
+author: yey007
+api-version: 1.15
+description: Adds a command to teleport asynchronously
+commands:
+  tp-async:
+    description: Teleports asynchronously
+    usage: /tp-async <entities> <x> <y> <z> OR <entity>
+    permission: tp-async
+    permission-message: You do not have the permission for tp-async
+permissions:
+  tp-async:
+    description: Allows players to teleport
+    default: op
